@@ -54,5 +54,3 @@ for rotation in input_data:
 
 
 print(f"The actual password (total zero clicks) is: {total_zero_clicks}")
-
-# Output: The actual password (total zero clicks) is: 5994
